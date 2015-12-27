@@ -1,0 +1,6 @@
+C:\crypPass\crypPass\bin\Release\crypPass.exe
+C:\crypPass\crypPass\bin\Release\crypPass.pdb
+C:\crypPass\crypPass\obj\x86\Release\ResolveAssemblyReference.cache
+C:\crypPass\crypPass\obj\x86\Release\crypPass.exe
+C:\crypPass\crypPass\obj\x86\Release\crypPass.pdb
+C:\crypPass\crypPass\bin\Release\crypPass.exe.config

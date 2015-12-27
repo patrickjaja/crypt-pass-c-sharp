@@ -1,0 +1,1 @@
+truecrypt.exe /q /dp
